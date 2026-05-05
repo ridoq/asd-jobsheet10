@@ -25,3 +25,15 @@
 ---
 
 #   Percobaan 2
+
+##  Soal
+
+-   Lakukan modifikasi program dengan menambahkan method baru bernama LihatAkhir pada class AntrianLayanan yang digunakan untuk mengecek antrian yang berada di posisi belakang. Tambahkan pula daftar menu 6. Cek Antrian paling belakang pada class LayananAkademikSIAKAD sehingga method LihatAkhir dapat dipanggil!
+
+---
+
+##  Jawaban
+
+-   Pertama yaitu dengan menambahkan Method baru bernama <mark>lihatAkhir()</mark> ke dalam class <mark>AntrianLayanan23.java</mark> untuk menampilkan data mahasiswa yang berada di posisi paling belakang antrian menggunakan referensi indeks <mark>data[rear]</mark>. Lalu Di dalam class <mark>LayananAkademikSIAKAD23.java</mark>, daftar menu ditambahkan dengan pilihan <mark>6. Cek Antrian paling belakang</mark> agar pengguna dapat memanggil method <mark>lihatAkhir()</mark> tersebut saat program dijalankan.
+
+---
